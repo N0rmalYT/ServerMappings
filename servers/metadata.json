@@ -1,0 +1,17 @@
+{
+  "id": "ymmotminecraft",
+  "name": "YmottyCraft",
+  "description": "Sta giocando su ymmot.minecraft.pro",
+  "gameTypes": ["Survival"],
+  "primaryColor": "#FF0000",
+  "secondaryColor": "#ffffff",
+  "minecraftVersions": ["1.21.1"],
+  "primaryMinecraftVersion": "1.21.1",
+  "languages": ["en", "it"],
+  "primaryLanguage": "it",
+  "regions": ["EU", "NA"],
+  "primaryRegion": "EU",
+  "socials": {
+    "discord": "https://dsc.gg/ymmot13",
+  }
+}
